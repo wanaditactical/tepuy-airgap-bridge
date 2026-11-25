@@ -1,0 +1,62 @@
+WANADI TACTICAL LLC — SOURCE-AVAILABLE CLIENT EVALUATION LICENSE (v1.0)
+LICENCIA DE EVALUACIÓN AUDITABLE PARA CLIENTES (SOURCE-AVAILABLE v1.0)
+=======================================================================
+
+Copyright (c) 2026 Wanadi Tactical LLC (Delaware, USA). All rights reserved.
+Todos los derechos reservados.
+
+[ESPAÑOL — TÉRMINOS DE USO Y AUDITORÍA DE SEGURIDAD]
+
+1. Concesión Gratuita de Auditoría y Evaluación Interna (Sin NDA Previo):
+   Wanadi Tactical LLC otorga a la organización receptora ("el Evaluador") una
+   licencia gratuita, mundial, no exclusiva, intransferible y revocable para:
+   (a) leer, inspeccionar y auditar íntegramente el código fuente de este Kit
+       de Cliente (Tepuy Core™ Air-Gap Bridge · Tier 1) por parte de sus equipos
+       internos de ciberseguridad, TI, riesgo o cumplimiento; y
+   (b) ejecutar el software en modo de evaluación interna únicamente sobre
+       servidores o estaciones propios o expresamente autorizados del Evaluador,
+       con el fin de generar manifiestos seudonimizados y verificar dictámenes
+       emitidos por Wanadi Tactical LLC. No se requiere firmar un NDA previo
+       para inspeccionar ni ejecutar este Kit de Cliente.
+
+2. Restricciones Comerciales y de Propiedad Intelectual:
+   Queda expresamente prohibido sin autorización previa y por escrito de
+   Wanadi Tactical LLC:
+   (a) comercializar, alquilar, sublicenciar o prestar servicios a terceros
+       (incluyendo consultoría, MSSP, pentesting o auditorías comerciales)
+       utilizando total o parcialmente este software o sus reportes;
+   (b) redistribuir versiones modificadas, retirar avisos de copyright o marcas,
+       o crear productos o servicios comerciales derivados o sustitutivos;
+   (c) utilizar las denominaciones y logotipos "Wanadi Tactical™", "Tepuy Core™",
+       "Sentinel OS™" o "Kuntur Continuity SDK™", cuya titularidad exclusiva
+       pertenece a Wanadi Tactical LLC.
+
+3. Ausencia de Garantía en Diagnóstico Gratuito:
+   Este Kit de Cliente de diagnóstico inicial (Escalón 0 / Tier 1) se entrega
+   "TAL CUAL" ("AS IS"), sin garantías expresas o implícitas, rigiéndose por
+   las leyes del Estado de Delaware, Estados Unidos de América.
+
+-----------------------------------------------------------------------
+
+[ENGLISH — SECURITY AUDIT & INTERNAL EVALUATION TERMS]
+
+1. Royalty-Free Security Audit & Internal Evaluation Grant (No Prior NDA):
+   Wanadi Tactical LLC grants the receiving organization ("Evaluator") a
+   royalty-free, worldwide, non-exclusive, non-transferable, revocable license:
+   (a) to read, inspect, and audit the complete source code of this Client Kit
+       (Tepuy Core™ Air-Gap Bridge · Tier 1) for internal security verification;
+   (b) to execute the software solely on systems owned or explicitly authorized
+       by Evaluator for internal posture evaluation with Wanadi Tactical LLC.
+
+2. Commercial & Competitive Restrictions:
+   Without prior written consent from Wanadi Tactical LLC, Evaluator may NOT:
+   (a) sell, lease, sublicense, or use this software to provide commercial
+       services to third parties (including MSSP, consulting, or audit engagements);
+   (b) redistribute modified copies, strip copyright or trademark notices, or
+       incorporate this code into any competing commercial product or service;
+   (c) use the "Wanadi Tactical™", "Tepuy Core™", "Sentinel OS™", or "Kuntur
+       Continuity SDK™" trademarks or logos.
+
+3. Disclaimer & Governing Law:
+   This free Tier 1 diagnostic client kit is provided "AS IS", without warranty
+   of any kind, and is governed by the laws of the State of Delaware, USA.

@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+export/
+.tepuy-airgap/
+*.key
+*.pem
+!wanadi_tier1.pub
+local_map.json
+verified.sqlite3
